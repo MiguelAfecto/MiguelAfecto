@@ -1,7 +1,9 @@
 ## Olá, seja bem vindo ao meu perfil!
 
-Me chamo Miguel Afecto, tenho 15 anos e moro em Santa Cruz de Monte Castelo
+## Me chamo Miguel Afecto! 
+Tenho 15 anos e moro em Santa Cruz de Monte Castelo
 
+## Aqui estão algumas informações sobre mim:
 - Estou cursando o ensino médio e me capacitando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem Javascript
 - Utilizo esse espaço para minha organização pessoal e compartilhamento dos meus projetos desenvolvidos
